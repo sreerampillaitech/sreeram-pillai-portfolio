@@ -1,0 +1,22 @@
+{
+  "name": "resume-portfolio",
+  "version": "1.0.0",
+  "description": "A personal resume portfolio showcasing projects and skills.",
+  "main": "src/sreeram_pillai_portfolio.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step can be added here.'"
+  },
+  "keywords": [
+    "resume",
+    "portfolio",
+    "web",
+    "personal"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
